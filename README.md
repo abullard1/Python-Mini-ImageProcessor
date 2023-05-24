@@ -16,4 +16,9 @@ For a list of command line arguments use the argument --help.
 If no image path or name is given, a file explorer window will open where you can select the image file to modify. After pressing enter, a GUI will open up where you can
 see the changes made to the image via the command line arguments (if you input any) and make further changes, reset the changes, save the image or view all possible command line arguments.
 
-
+<table>
+  <tr>
+    <td><kbd> <img src="Image Processing Pre.png" width="500" /> </kbd></td>
+    <td><kbd> <img src="Image Processing Post.png" width="500" /> </kbd></td>
+  </tr>
+</table>
